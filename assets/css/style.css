@@ -253,12 +253,14 @@ max-width: max-content;
 .grid-list{
   display: grid;
   gap: 50px;
+  padding-top: 20px;
 }
 .section-text{
   margin-block: 15px 50px;
 }
 .process-banner{
-  display: none;
+  /* display: flex; */
+  padding-top: 20px ;
 }
 .process{
   position: relative;
